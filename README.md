@@ -20,7 +20,7 @@ Fun fact **At the age of 13, David Tennant wrote a school essay titled "Intergal
   <a href="mailto:khabalov33@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/RevilMayCry">
+  <a href="https://t.me/khabalov33">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://www.instagram.com/khabalov33?igsh=MTNoY3g5bzkwcnMzNg==">
@@ -33,7 +33,7 @@ Fun fact **At the age of 13, David Tennant wrote a school essay titled "Intergal
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,bootstrap,vscode,figma,photoshop,illustrator" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,bootstrap,vscode,figma,photoshop,illustrator, C#" />
     <img src="https://skillicons.dev/icons?i=github,git" /><br>
 </div>
 
