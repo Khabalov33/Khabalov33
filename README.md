@@ -33,7 +33,7 @@ Fun fact **At the age of 13, David Tennant wrote a school essay titled "Intergal
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,npm,vite,react,typescript,bootstrap,vscode,figma,photoshop,illustrator, sass, nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,npm,vite,react,typescript,bootstrap,vscode,figma,photoshop,illustrator,sass,nextjs" />
     <img src="https://skillicons.dev/icons?i=github,git" /><br>
 </div>
 
